@@ -1,0 +1,3 @@
+[thresholds]
+up = 0.03
+down = 0.0
